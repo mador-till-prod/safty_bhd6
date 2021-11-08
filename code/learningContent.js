@@ -638,7 +638,7 @@ const DATA = {
                 "בטיחות ברעש": [
                     {
                         cardType: "youtube",
-                        youtube: "https://www.youtube.com/embed/JIAcjX_0jB0"
+                        youtube: "https://www.youtube.com/embed/63g1TnOZ1CY"
                     }
                 ]
             }
