@@ -72,7 +72,7 @@
   width: 100%;
   height: 17vw;
   bottom: 0;
-  background-image:linear-gradient(0deg,rgba(242, 156, 45, 0.59),rgba(253, 222, 46, 0));
+  background-image:linear-gradient(0deg,rgb(112 128 191),rgba(253, 222, 46, 0));
   pointer-events: none;
   z-index: 1;
 }
